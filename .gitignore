@@ -1,0 +1,4 @@
+src/node_modules/
+src/platforms/
+src/plugins/
+.DS_Store
