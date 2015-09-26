@@ -25,9 +25,11 @@ Publish for android
 ====
 
 Create the key - certificate pair (only once):
+
 1. *keytool -genkey -v -keystore ~/mykeyapp.keystore -alias mykeyapp -keyalg RSA -keysize 2048 -validity 100000*
 
 Run:
+
 1. *cd FarmerCalculator/src/FarmCalc*
 2. *cordova plugin rm org.apache.cordova.console*
 3. *cordova build --release android*
