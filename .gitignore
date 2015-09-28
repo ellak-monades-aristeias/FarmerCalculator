@@ -1,4 +1,4 @@
-src/node_modules/
-src/platforms/
-src/plugins/
+src/FarmCalc/node_modules/
+src/FarmCalc/platforms/
+src/FarmCalc/plugins/
 .DS_Store
