@@ -1,6 +1,6 @@
 <ion-header-bar class="bar-positive">
   <button class="button button-icon ion-navicon" ng-click="toggleLeft()" ng-hide="$exposeAside.active"></button>
-  <h1 class="title">Πότισμα</h1>
+  <h1 class="title">Σπορά με γραμμές</h1>
 </ion-header-bar>
 <ion-content>
   <div class="card">
@@ -8,22 +8,22 @@
       Συμπληρώστε τα 2 από τα 3 πεδία, πατήστε υπολογισμός και θα εμφανιστεί το τρίτο.
     </div>
   </div>
-
+  
   <div class="list">
     <label class="item item-input item-stacked-label">
-      <span class="input-label">Συνολική απόσταση</span>
+      <span class="input-label">Συνολικές Γραμμές</span>
+      <input type="text" placeholder="αριθμός" ng-model="data.totalLines">
+    </label>
+    <label class="item item-input item-stacked-label">
+      <span class="input-label">Συνολικό Μήκος</span>
       <input type="text" placeholder="μέτρα" ng-model="data.totalLength">
     </label>
     <label class="item item-input item-stacked-label">
-      <span class="input-label">Λεπτά ανά μέτρο</span>
-      <input type="text" placeholder="λεπτά:δευτερόλεπτα" ng-model="data.minutesPerMeter">
-    </label>
-    <label class="item item-input item-stacked-label">
-      <span class="input-label">Συνολικός χρόνος</span>
-      <input type="text" placeholder="λεπτά:δευτερόλεπτα" ng-model="data.totalTime">
+      <span class="input-label">Απόσταση ανάμεσα στις γραμμές</span>
+      <input type="text" placeholder="μέτρα" ng-model="data.gapBetweenLines">
     </label>
   </div>
-
+  
   <button class="button button-block button-positive" ng-click="calculate()">
     Υπολογισμός
   </button>

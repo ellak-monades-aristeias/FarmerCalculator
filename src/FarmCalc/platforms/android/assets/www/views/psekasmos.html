@@ -1,0 +1,42 @@
+<ion-header-bar class="bar-positive">
+  <button class="button button-icon ion-navicon" ng-click="toggleLeft()" ng-hide="$exposeAside.active"></button>
+  <h1 class="title">Ψέκασμός</h1>
+</ion-header-bar>
+<ion-content>
+  <div class="card">
+    <div class="item item-text-wrap">
+      Συμπληρώστε μόνα τα 3 πρώτα πεδία, πατήστε υπολογισμός και θα εμφανιστεί τα υπόλοιπα.
+    </div>
+  </div>
+  
+  <div class="list">
+    <label class="item item-input item-stacked-label">
+      <span class="input-label">Συνολικά στρέμματα</span>
+      <input type="text" placeholder="στρέμματα" ng-model="data.totalArea">
+    </label>
+    <label class="item item-input item-stacked-label">
+      <span class="input-label">Αναλογία φαρμάκου ανά νερού</span>
+      <input type="text" placeholder="αριθμός" ng-model="data.farmakoPerWater">
+    </label>
+    <label class="item item-input item-stacked-label">
+      <span class="input-label">Αναλογία μείγματος ανά στρέμμα</span>
+      <input type="text" placeholder="κιλά" ng-model="data.weightPerArea">
+    </label>
+    <label class="item item-input item-stacked-label">
+      <span class="input-label">Συνολικά κιλά νερού</span>
+      <div>
+        {{data.water}}
+      </div>
+    </label>
+    <label class="item item-input item-stacked-label">
+      <span class="input-label">Συνοκικά κιλά φαρμάκου</span>
+      <div>
+        {{data.farmako}}
+      </div>
+    </label>
+  </div>
+  
+  <button class="button button-block button-positive" ng-click="calculate()">
+    Υπολογισμός
+  </button>
+</ion-content>

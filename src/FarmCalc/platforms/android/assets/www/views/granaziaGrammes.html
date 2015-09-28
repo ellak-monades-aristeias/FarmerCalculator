@@ -1,0 +1,32 @@
+<ion-header-bar class="bar-positive">
+  <button class="button button-icon ion-navicon" ng-click="toggleLeft()" ng-hide="$exposeAside.active"></button>
+  <h1 class="title">Σχέσεις στα γρανάζια (γραμμές)</h1>
+</ion-header-bar>
+<ion-content>
+  <div class="card">
+    <div class="item item-text-wrap">
+      Συμπληρώστε τα 2 πρώτα πεδία, πατήστε υπολογισμός και θα εμφανιστεί το τρίτο.
+    </div>
+  </div>
+  
+  <div class="list">
+    <label class="item item-input item-stacked-label">
+      <span class="input-label">Συνολικά στρέμματα</span>
+      <input type="text" placeholder="στρέμματα" ng-model="data.totalArea">
+    </label>
+    <label class="item item-input item-stacked-label">
+      <span class="input-label">Πλήθος σπόρων ανά μονάδα επιφάνειας</span>
+      <input type="text" placeholder="κιλά" ng-model="data.seedsPerArea">
+    </label>
+    <label class="item item-input item-stacked-label">
+      <span class="input-label">Σχέση</span>
+      <div>
+        {{data.sxesh}}
+      </div>
+    </label>
+  </div>
+  
+  <button class="button button-block button-positive" ng-click="calculate()">
+    Υπολογισμός
+  </button>
+</ion-content>
