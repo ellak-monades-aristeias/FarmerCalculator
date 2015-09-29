@@ -13,4 +13,4 @@ The application is based on the:
 * AngularJS (https://angularjs.org)
 * HTML, CSS, Javascript
 
-See doc/installation.md for instalaltion instructions.
+See [doc/installation.md](doc/installation.md) for instalaltion instructions.
