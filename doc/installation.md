@@ -39,5 +39,5 @@ Run:
 Publish fo iOS
 ====
 
-Open the project of xcode (iside the platrorm folder) and follow the instructions on Apples website.
+Open the project of xcode (inside the platrorm folder) and follow the instructions on Apples website.
 
