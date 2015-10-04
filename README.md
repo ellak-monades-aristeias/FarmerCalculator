@@ -14,3 +14,5 @@ The application is based on the:
 * HTML, CSS, Javascript
 
 See [doc/installation.md](doc/installation.md) for instalaltion instructions.
+
+Executable for android: [bin/FarmCalc.apk](bin/FarmCalc.apk).
