@@ -16,3 +16,5 @@ The application is based on the:
 See [doc/installation.md](doc/installation.md) for instalaltion instructions.
 
 Executable for android: [bin/FarmCalc.apk](bin/FarmCalc.apk).
+
+Video Demonstration: [doc/movie1.mp4](doc/movie1.mp4).
