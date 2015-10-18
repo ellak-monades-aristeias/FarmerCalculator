@@ -24,9 +24,10 @@ The application is based on the:
 * AngularJS (https://angularjs.org)
 * HTML, CSS, Javascript
 
-Executable for android: [bin/FarmCalc.apk](bin/FarmCalc.apk).
+Executable for android: [FarmCalc.apk](https://drive.google.com/file/d/0ByO53kxiSQoOMWRQOFdJUk9JR2c/view?usp=sharing).
 
-Video Demonstration: [doc/movie1.mp4](doc/movie1.mp4).
+Video Demonstration: [movie1](https://www.youtube.com/watch?v=n6vYNxQGAxA&feature=youtu.be),
+ [video2](https://www.youtube.com/watch?v=-MtLT9r3L7g&feature=youtu.be).
 
 Install prerequisites
 ====
