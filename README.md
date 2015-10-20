@@ -35,7 +35,7 @@ Install prerequisites
 Install `node.js`:
 
     sudo apt-get install npm node
-If no package manager is available, go to (http://nodejs.org) and follow the instructions.
+If no package manager is available, go to [nodejs website](http://nodejs.org) and follow the instructions.
 
 Install [cordova](http://cordova.apache.org):
 
