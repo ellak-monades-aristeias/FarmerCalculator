@@ -13,15 +13,15 @@ Overview
 ====
 
 The aim of this project is to provide an app to the farmers that will help them make some calculations. For example, when the plants are irrigated, a machine is moving, so if we know the speed and the total length, we can estimate the total amount of time that will be needed.
-This app is based on the ionic framework (http://ionicframework.com), so it can provide executables for iOS and Android.
+This app is based on the [ionic framework](http://ionicframework.com), so it can provide executables for iOS and Android.
 
 Software stack
 ====
 
 The application is based on the:
-* ionic framework (http://ionicframework.com)
-* cordova (https://cordova.apache.org)
-* AngularJS (https://angularjs.org)
+* [ionic framework](http://ionicframework.com)
+* [cordova](https://cordova.apache.org)
+* [AngularJS](https://angularjs.org)
 * HTML, CSS, Javascript
 
 Executable for android: [FarmCalc.apk](https://drive.google.com/file/d/0ByO53kxiSQoOMWRQOFdJUk9JR2c/view?usp=sharing).
@@ -32,26 +32,26 @@ Video Demonstration: [movie1](https://www.youtube.com/watch?v=n6vYNxQGAxA&featur
 Install prerequisites
 ====
 
-Install node.js:
+Install `node.js`:
 
     sudo apt-get install npm node
 If no package manager is available, go to (http://nodejs.org) and follow the instructions.
 
-Install cordova (http://cordova.apache.org):
+Install [cordova](http://cordova.apache.org):
 
     sudo npm install -g cordova
 
-Install Ionic (http://ionicframework.com):
+Install [Ionic](http://ionicframework.com):
 
     sudo npm install -g ionic
 
-Install android sdk (http://developer.android.com), intall the last api and create an emulator. In order to produce an executable for iOs, xcode (https://developer.apple.com/xcode/) is needed, whic is available only for Mac OS X.
+Install [android sdk](http://developer.android.com), intall the last api and create an emulator. In order to produce an executable for iOs, [xcode](https://developer.apple.com/xcode/) is needed, whic is available only for Mac OS X.
 
-Install ant:
+Install `ant`:
 
     sudo apt-get install ant
 
-If Mac OS X is used, install ios-sim:
+If Mac OS X is used, install `ios-sim`:
 
     sudo npm install -g ios-sim
 
