@@ -8,7 +8,7 @@ Table of contents
   * [Installation](#installation)
   * [Publish for android](#publish-for-android)
   * [Publish fo iOS](#publish-for-ios)
-  * [Παραδοτέο-URLS](#παραδοτέο-urls)
+  * [Παραδοτέο-URLS](#urls)
 
 Overview
 ====
@@ -120,7 +120,7 @@ Publish for iOS
 Open the project of xcode (inside the platrorm folder) and follow the instructions on Apples website.
 
 
-Παραδοτέο-URLS
+URLS
 ====
 
 <table>
