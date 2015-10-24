@@ -8,7 +8,7 @@ Table of contents
   * [Installation](#installation)
   * [Publish for android](#publish-for-android)
   * [Publish fo iOS](#publish-for-ios)
-  * [Παραδοτέο-URL](#Παραδοτέο-URL)
+  * [Παραδοτέο-URL](#URLS)
 
 Overview
 ====
@@ -16,9 +16,9 @@ Overview
 The aim of this project is to provide an app to the farmers that will help them make some calculations. For example, when the plants are irrigated, a machine is moving, so if we know the speed and the total length, we can estimate the total amount of time that will be needed.
 This app is based on the [ionic framework](http://ionicframework.com), so it can provide executables for iOS and Android.
 
-[README_users.md]
+[README_users.md](README_users.md)
 
-[README_developers.md]
+[README_developers.md](README_developers.md)
 
 Software stack
 ====
@@ -119,7 +119,8 @@ Publish for iOS
 
 Open the project of xcode (inside the platrorm folder) and follow the instructions on Apples website.
 
-Παραδοτέο-URL
+
+URLS
 ====
 
 <table>
