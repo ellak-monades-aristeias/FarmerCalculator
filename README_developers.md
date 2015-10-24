@@ -9,9 +9,7 @@
 
 ## Download source code
 
-In order to download the source code, run:
-
-    git clone https://github.com/ellak-monades-aristeias/FarmerCalculator.git
+A detail documentation of the source code can be found in the [wiki](https://github.com/ellak-monades-aristeias/FarmerCalculator/wiki).
 
 ## Software stack
 
