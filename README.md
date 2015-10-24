@@ -20,6 +20,11 @@ This app is based on the [ionic framework](http://ionicframework.com), so it can
 
 [README_developers.md](README_developers.md)
 
+Executable for android: [FarmCalc.apk](https://drive.google.com/file/d/0ByO53kxiSQoOMWRQOFdJUk9JR2c/view?usp=sharing).
+
+Video Demonstration: [video1](https://www.youtube.com/watch?v=n6vYNxQGAxA&feature=youtu.be),
+ [video2](https://www.youtube.com/watch?v=-MtLT9r3L7g&feature=youtu.be).
+
 Software stack
 ====
 
@@ -28,11 +33,6 @@ The application is based on the:
 * [cordova](https://cordova.apache.org)
 * [AngularJS](https://angularjs.org)
 * HTML, CSS, Javascript
-
-Executable for android: [FarmCalc.apk](https://drive.google.com/file/d/0ByO53kxiSQoOMWRQOFdJUk9JR2c/view?usp=sharing).
-
-Video Demonstration: [movie1](https://www.youtube.com/watch?v=n6vYNxQGAxA&feature=youtu.be),
- [video2](https://www.youtube.com/watch?v=-MtLT9r3L7g&feature=youtu.be).
 
 Install prerequisites
 ====
