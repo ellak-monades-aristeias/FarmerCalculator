@@ -123,11 +123,11 @@ Open the project of xcode (inside the platrorm folder) and follow the instructio
 URLS
 ====
 
-<table>
-<tr> <th>Παραδοτέο</th> <th>Σύντομη περιγραφή</th> <th>Url</th> </tr>
+<table style="width:500; text-align: left;">
+<tr> <th style="width:10%">Παραδοτέο</th> <thstyle="width:40%">Σύντομη περιγραφή</th> <th style="width:50%">Url</th> </tr>
 <tr>
-<th>1</th>
-<th>
+<th style="width:10%">1</th>
+<th style="width:40%">
 Δημιουργία εφαρμογής για iOS και Android με τις εξής δυνατότητες:
 <ol>
 <li>
@@ -168,7 +168,7 @@ URLS
 </li>
 </ol>
 </th>
-<th>
+<th style="width:50%">
 <ol>
 <li>
 https://github.com/ellak-monades-aristeias/FarmerCalculator/blob/master/www/index.html
@@ -230,9 +230,9 @@ https://github.com/ellak-monades-aristeias/FarmerCalculator/blob/master/www/js/P
 </th>
 </tr>
 <tr>
-<th>2</th>
-<th>Δημιουργία video και φυλλαδίου.</th>
-<th>
+<th style="width:10%">2</th>
+<th style="width:40%">Δημιουργία video και φυλλαδίου.</th>
+<th style="width:50%">
 <ol>
 <li>
 https://github.com/ellak-monades-aristeias/FarmerCalculator/blob/master/doc/paper.pdf
