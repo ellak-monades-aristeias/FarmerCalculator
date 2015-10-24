@@ -1,6 +1,6 @@
 # User Manual
 
-Android users can download the app from [[https://drive.google.com/file/d/0ByO53kxiSQoOMWRQOFdJUk9JR2c/view?usp=sharing]].
+Android users can download the app from [this url](https://drive.google.com/file/d/0ByO53kxiSQoOMWRQOFdJUk9JR2c/view?usp=sharing).
 
 For a quick introduction, the following videos are available:
 
